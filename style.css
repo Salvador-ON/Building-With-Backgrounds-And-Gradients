@@ -45,9 +45,65 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#757575', endColorstr='#757575', GradientType=0 );
 }
 
-#apple-button {
+#apple {
   border-radius: 5px 0 0 5px;
   border: 1px solid rgb(29, 29, 29);
+}
+
+#apple-svg {
+  object-fit: none;
+  object-position: -35px -2px;
+  height: 30px;
+  width: 102px;
+}
+
+#store-svg {
+  object-fit: none;
+  object-position: -35px -32px;
+  height: 30px;
+  width: 102px;
+}
+
+#mac-svg {
+  object-fit: none;
+  object-position: -35px -62px;
+  height: 30px;
+  width: 102px;
+}
+
+#ipod-svg {
+  object-fit: none;
+  object-position: -35px -92px;
+  height: 30px;
+  width: 102px;
+}
+
+#iphone-svg {
+  object-fit: none;
+  object-position: -35px -122px;
+  height: 30px;
+  width: 102px;
+}
+
+#ipad-svg {
+  object-fit: none;
+  object-position: -35px -152px;
+  height: 30px;
+  width: 102px;
+}
+
+#itunes-svg {
+  object-fit: none;
+  object-position: -35px -182px;
+  height: 30px;
+  width: 102px;
+}
+
+#support-svg {
+  object-fit: none;
+  object-position: -35px -212px;
+  height: 30px;
+  width: 102px;
 }
 
 #box-form {
@@ -73,13 +129,15 @@ body {
   height: 20px;
   box-sizing: border-box;
   border-radius: 10px;
-  background-color: darkgray;
+  background: url("media/globalsearch_field.png") 0px 0px no-repeat;
   border: 0.1px solid rgb(29, 29, 29);
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 #search-bar:focus {
-  background-color: white;
+  background: url("media/globalsearch_field.png") 0px -20px no-repeat;
+  padding-left: 20px;
+  outline: 0;
 }
 
 .title {
