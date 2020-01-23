@@ -15,10 +15,10 @@ HTML5 and CSS3
 
 👤**Salvador Olvera**
 
-- Github: [@githubhandle](https://github.com/Salvador-ON)
-- Twitter: [@twitterhandle](https://twitter.com/Salvador_ON)
+- Github: [@Salvador-ON](https://github.com/Salvador-ON)
+- Twitter: [@Salvador_ON](https://twitter.com/Salvador_ON)
 - Linkedin: [linkedin](https://www.linkedin.com/in/salvador-olvera-n//
 )
 
 ## Live demo
-*Link to the [live demo](https://raw.githack.com/Salvador-ON/BUILDING-WITH-BACKGROUNDS-AND-GRADIENTS/feature-branch/index.html)*
+*Link to the [live demo](https://rawcdn.githack.com/Salvador-ON/BUILDING-WITH-BACKGROUNDS-AND-GRADIENTS/e5b096d6d20f122e89b393660603fc662ec87f87/index.html)*
