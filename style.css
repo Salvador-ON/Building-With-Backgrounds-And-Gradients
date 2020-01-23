@@ -3,12 +3,12 @@ body{
 }
 .pic{
   background: url("media/your_verse_hero.jpg") -70px -780px no-repeat;
+  width: 100vw;
   height: 580px;
   margin: auto;
   z-index: 1;
   text-align: center;
 }
-
 
 .nav-bar{
   display: flex;
@@ -21,7 +21,7 @@ body{
   width: 102px;
   height: 30px;
   color: white;
-  border: 0.25px solid black;
+  border: 0.1px solid rgb(29, 29, 29);
   background: rgba(148,148,148,1);
   background: -moz-linear-gradient(top, rgba(148,148,148,1) 0%, rgba(61,60,61,1) 49%, rgba(135,135,135,1) 100%);
   background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(148,148,148,1)), color-stop(49%, rgba(61,60,61,1)), color-stop(100%, rgba(135,135,135,1)));
@@ -52,14 +52,77 @@ body{
 .title3 {
   width: 980px;
   object-fit: cover;
-  object-position: 0% 27px;
+  object-position: 0% 30px;
 }
 
 .title3:hover {
   object-fit: cover;
   object-position: 0% -30px;
-  padding-top: 25px;
+  padding-top: 28px;
 }
+
+.aside-pics{
+  width: 25vw;
+  object-fit: cover;
+  object-position: -30px 0;
+}
+aside{
+  display: flex;
+  flex-direction: row;
+  margin-top: -42px;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100vw;
+  align-content: flex-start;
+}
+
+.promo1{
+  background: url("media/promo_iphone5s.jpg") -20px 0 no-repeat;
+  margin: auto;
+}
+
+.promo1a {
+  display: block;
+  height: 200px;
+  width: 25vw;
+}
+
+.promo2 {
+  background: url("media/promo_iphone5c.jpg") -20px 0 no-repeat;
+  margin: auto;
+}
+
+.promo2a {
+  display: block;
+  height: 200px;
+  width: 25vw;
+}
+
+.promo3 {
+  background: url("media/promo_30_years.jpg") -20px 0 no-repeat;
+  margin: auto;
+}
+
+.promo3a {
+  display: block;
+  height: 200px;
+  width: 25vw;
+}
+
+.promo4 {
+  background: url("media/promo_supplier_responsibility.jpg") -20px 0 no-repeat;
+  margin: auto;
+}
+
+.promo4a {
+  display: block;
+  height: 200px;
+  width: 25vw;
+}
+
+/* .i5s {
+  width: 25vw;
+} */
 
 footer {
   width: 100%;
