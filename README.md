@@ -1,15 +1,15 @@
 # BUILDING-WITH-BACKGROUNDS-AND-GRADIENTS
-PROJECT: BUILDING WITH BACKGROUNDS AND GRADIENTS
+PROJECT: BUILDING WITH BACKGROUNDS AND GRADIENTS.
 
-It's from the Odin Project - Microverse
+It's from the Odin Project - Microverse.
 
 ## Made with
 HTML5 and CSS3
 
 ## Tech used
-* Background images
-* Background color gradients
-* Buttons & Form
+* Background images.
+* Background color gradients.
+* Buttons & Form.
 
 ## Author
 
@@ -17,7 +17,7 @@ HTML5 and CSS3
 
 - Github: [@Salvador-ON](https://github.com/Salvador-ON)
 - Twitter: [@Salvador_ON](https://twitter.com/Salvador_ON)
-- Linkedin: [linkedin](https://www.linkedin.com/in/salvador-olvera-n//
+- Linkedin: [Salvador_ON](https://www.linkedin.com/in/salvador-olvera-n//
 )
 
 ## Live demo
