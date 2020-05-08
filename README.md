@@ -3,6 +3,8 @@ PROJECT: BUILDING WITH BACKGROUNDS AND GRADIENTS.
 
 It's from the Odin Project - Microverse.
 
+![screenshoot](/media/Screenshot_2020-05-08%20Document.png)
+
 ## Made with
 HTML5 and CSS3
 
